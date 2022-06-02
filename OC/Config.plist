@@ -27,7 +27,7 @@
 				<string>SSDT-ECRW.aml</string>
 				<key>Path</key>
 				<string>SSDT-ECRW.aml</string>
-				<key>Enabled</key>
+				<key>Disable</key>
 				<true/>
 			</dict>
 			<dict>
